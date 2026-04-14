@@ -24,14 +24,14 @@ const isFocused = computed(() => infoRef.value?.isFocused || false)
 
 .profile::before {
     content: "";
-    width: 90px;
-    height: 90px;
+    width: 86px;
+    height: 86px;
     border: 1px transparent solid;
     border-radius: 100%;
     display: block;
     position: absolute;
-    left: -6px;
-    top: -6px;
+    left: -4px;
+    top: -4px;
     transition: all 0.3s ease;
 }
 
