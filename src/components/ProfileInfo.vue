@@ -29,6 +29,7 @@ h2 {
     font-size: 16px;
     line-height: 15px;
     transition: all 0.3s ease;
+    letter-spacing: 0.3px;
 }
 
 .focused {
